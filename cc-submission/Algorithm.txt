@@ -1,0 +1,11 @@
+Our Algorithm involves a simple Linear Regression model with features as player ratings
+
+FEATURES
+Batsmen: The ratings are calculated by taking the average of the average runs scored by each of the batsmen in their previous matches throughout all seasons. The average number of boundaries scored by them is also a feature
+
+Bowler: The ratings for the bowler is simply the average of average runs given by them in their previous matches
+
+Wickets: the wickets fallen for the first 6 overs
+
+MODEL
+Linear Regression with no hyperparameters changed 
